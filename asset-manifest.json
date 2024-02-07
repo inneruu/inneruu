@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/inneruu/static/css/main.e81957b4.css",
+    "main.js": "/inneruu/static/js/main.7d50adf0.js",
+    "static/js/787.63866405.chunk.js": "/inneruu/static/js/787.63866405.chunk.js",
+    "static/media/background-with-logo.jpg": "/inneruu/static/media/background-with-logo.c9849b1c2f9b9b4fbc2a.jpg",
+    "static/media/mic-32regular.ttf": "/inneruu/static/media/mic-32regular.44b0211c7104637b3925.ttf",
+    "static/media/mic-32regular-webfont.woff": "/inneruu/static/media/mic-32regular-webfont.9849f814857b9876edc8.woff",
+    "static/media/mic-32regular-webfont.woff2": "/inneruu/static/media/mic-32regular-webfont.ece4558fbb7252dd2912.woff2",
+    "static/media/soundcloud.svg": "/inneruu/static/media/soundcloud.121f77fb4ae70df441e05f02ea643a3a.svg",
+    "static/media/phone.svg": "/inneruu/static/media/phone.9fcae416cedf0ab377833e15ec3a8957.svg",
+    "static/media/instagram.svg": "/inneruu/static/media/instagram.f2bc9012fc270087991c7613d71a4abe.svg",
+    "index.html": "/inneruu/index.html",
+    "static/media/email.svg": "/inneruu/static/media/email.18e65db49c342d604d5daaf381d0e7dd.svg",
+    "static/media/spotify.svg": "/inneruu/static/media/spotify.9ddb5fb402e1021913f7c49236e1a9d9.svg",
+    "static/media/dropbox.svg": "/inneruu/static/media/dropbox.118bb0668aa5965e3ea433a5f65dfde3.svg",
+    "static/media/menu.svg": "/inneruu/static/media/menu.b778cb1777612594612f0bf2e4ff8477.svg",
+    "static/media/youtube.svg": "/inneruu/static/media/youtube.6503e8bcfdb28a8e01752452454d52fd.svg",
+    "static/media/facebook.svg": "/inneruu/static/media/facebook.eb69d0b416933401da91e6a7d16b17a7.svg",
+    "static/media/bandcamp.svg": "/inneruu/static/media/bandcamp.473e76048e3e043b04814b70a7c4af6a.svg",
+    "main.e81957b4.css.map": "/inneruu/static/css/main.e81957b4.css.map",
+    "main.7d50adf0.js.map": "/inneruu/static/js/main.7d50adf0.js.map",
+    "787.63866405.chunk.js.map": "/inneruu/static/js/787.63866405.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e81957b4.css",
+    "static/js/main.7d50adf0.js"
+  ]
+}
