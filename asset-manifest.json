@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/inneruu/static/css/main.687a0d72.css",
-    "main.js": "/inneruu/static/js/main.33cf5595.js",
+    "main.js": "/inneruu/static/js/main.50d746e1.js",
     "static/js/787.63866405.chunk.js": "/inneruu/static/js/787.63866405.chunk.js",
     "static/media/background-with-logo.jpg": "/inneruu/static/media/background-with-logo.c9849b1c2f9b9b4fbc2a.jpg",
     "static/media/mic-32regular.ttf": "/inneruu/static/media/mic-32regular.44b0211c7104637b3925.ttf",
@@ -19,11 +19,11 @@
     "static/media/facebook.svg": "/inneruu/static/media/facebook.eb69d0b416933401da91e6a7d16b17a7.svg",
     "static/media/bandcamp.svg": "/inneruu/static/media/bandcamp.473e76048e3e043b04814b70a7c4af6a.svg",
     "main.687a0d72.css.map": "/inneruu/static/css/main.687a0d72.css.map",
-    "main.33cf5595.js.map": "/inneruu/static/js/main.33cf5595.js.map",
+    "main.50d746e1.js.map": "/inneruu/static/js/main.50d746e1.js.map",
     "787.63866405.chunk.js.map": "/inneruu/static/js/787.63866405.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.687a0d72.css",
-    "static/js/main.33cf5595.js"
+    "static/js/main.50d746e1.js"
   ]
 }
